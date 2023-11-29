@@ -1,1 +1,9 @@
 node_modules/
+/.vs/slnx.sqlite
+/.vs/git-training-exercise/FileContentIndex/49a53219-8853-4051-acf0-bf496473a1a2.vsidx
+/.vs/git-training-exercise/FileContentIndex/f44f432c-cbdc-457d-83bb-b15c9f8a499f.vsidx
+/.vs/git-training-exercise/FileContentIndex/read.lock
+*.wsuo
+/.vs/git-training-exercise/FileContentIndex/54f0d6d5-dc47-4ec5-ac12-740ee45ba49d.vsidx
+*.vsidx
+/.vs/VSWorkspaceState.json
