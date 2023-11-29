@@ -1,3 +1,5 @@
+# AGD - Update README file
+
 # Welcome to the Use .gitignore exercise!
 
 This exercise checks your knowledge on using a `.gitignore` file. It is automatically graded via a workflow once you have completed the instructions.
