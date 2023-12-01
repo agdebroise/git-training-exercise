@@ -1,0 +1,249 @@
+[33mcommit aea9152bf0d6ee0b19026bcde1b2000c95826c5a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mBranch1[m[33m)[m
+Merge: 94097d2 fecbb7a
+Author: Anne-Gaelle Debroise <annegaelle.debroise@cellenza.com>
+Date:   Wed Nov 29 19:46:12 2023 +0100
+
+    Merge branch 'main' of https://github.com/agdebroise/git-training-exercise
+
+[33mcommit 94097d24b067127fbfedbcd5da832b96937f7a4e[m
+Author: Anne-Gaelle Debroise <annegaelle.debroise@cellenza.com>
+Date:   Wed Nov 29 19:43:57 2023 +0100
+
+    add .vs data after reset
+
+[33mcommit d46c3821ea9770082d02311833f0d6003972301c[m
+Author: Anne-Gaelle Debroise <annegaelle.debroise@cellenza.com>
+Date:   Wed Nov 29 19:22:14 2023 +0100
+
+    update .vs data
+
+[33mcommit fecbb7a0aa82675722fd58f28553330fa419d26e[m
+Merge: 4327479 2702e87
+Author: tguillaume02 <thib.guillaume@gmail.com>
+Date:   Wed Nov 29 16:26:54 2023 +0100
+
+    Merge branch
+
+[33mcommit 552ede4744cc99f9d0d15c527d0a2f94feee4553[m
+Author: Anne-Gaelle Debroise <annegaelle.debroise@cellenza.com>
+Date:   Wed Nov 29 16:22:00 2023 +0100
+
+    commentaire diu commit
+
+[33mcommit 2702e87d46d01c9ee4a52df76e866fd90ae7548f[m
+Author: rtirlois <rtirlois@a2mac1.com>
+Date:   Wed Nov 29 16:21:22 2023 +0100
+
+    Add vs file in git ignore from VS
+
+[33mcommit 43274790610bd4cfa93deef7a6caf3ed0baec1f3[m
+Merge: c73d198 bba1240
+Author: tguillaume02 <thib.guillaume@gmail.com>
+Date:   Wed Nov 29 16:21:09 2023 +0100
+
+    Merge branch 'main' of https://github.com/agdebroise/git-training-exercise
+
+[33mcommit c73d1989eae4c8d7106ae78ad80cdb793aae0d71[m
+Merge: 900bc76 18d4b9c
+Author: tguillaume02 <thib.guillaume@gmail.com>
+Date:   Wed Nov 29 16:14:17 2023 +0100
+
+    Merge branch 'tguillaume'
+
+[33mcommit bba1240e60a7632cf29d968d6c328c0778ceb130[m
+Merge: a6ec6c4 900bc76
+Author: rtirlois <rtirlois@a2mac1.com>
+Date:   Wed Nov 29 16:13:38 2023 +0100
+
+    Merge branch 'main' of https://github.com/agdebroise/git-training-exercise
+
+[33mcommit 18d4b9cb585914dd4a0b2c5676e8bccfa9a3c9a4[m[33m ([m[1;31morigin/tguillaume[m[33m)[m
+Author: tguillaume02 <thib.guillaume@gmail.com>
+Date:   Wed Nov 29 16:13:38 2023 +0100
+
+    rename file
+
+[33mcommit a6ec6c43e8b364621da2603ab5cc443121d682d9[m
+Author: rtirlois <rtirlois@a2mac1.com>
+Date:   Wed Nov 29 16:13:25 2023 +0100
+
+    Add modification from visual studio
+
+[33mcommit 900bc76b01f848dc39af791997cf9e4a3599de50[m
+Merge: 7913f23 8cd36f9
+Author: EcamaraBuz <ecamara.business@gmail.com>
+Date:   Wed Nov 29 16:02:11 2023 +0100
+
+    Merge branch 'hello'
+
+[33mcommit 8cd36f9839ba4d39d70d483ebdf63502100e2e10[m[33m ([m[1;31morigin/hello[m[33m)[m
+Author: EcamaraBuz <ecamara.business@gmail.com>
+Date:   Wed Nov 29 15:59:56 2023 +0100
+
+    Le stagiaire update
+
+[33mcommit 1f0727bc0b43aa92459420d267f23a93583aa3ec[m
+Author: Maxime Baudin <mbaudin@a2mac1.com>
+Date:   Wed Nov 29 15:55:58 2023 +0100
+
+    Updated index.html
+
+[33mcommit a13678217e377cfab44360c86382b72ee8f76f14[m
+Author: tguillaume02 <thib.guillaume@gmail.com>
+Date:   Wed Nov 29 15:55:34 2023 +0100
+
+    removed file
+
+[33mcommit 4fece925ce5d83d4f8d51639a56b0615983a286e[m
+Author: tguillaume02 <thib.guillaume@gmail.com>
+Date:   Wed Nov 29 15:54:37 2023 +0100
+
+    add file
+
+[33mcommit 20399614e99b4015e1643d24439bac3814ee8f9d[m
+Author: tguillaume02 <thib.guillaume@gmail.com>
+Date:   Wed Nov 29 15:53:19 2023 +0100
+
+    modification de fichier.txt
+
+[33mcommit e1ea333e37a01441eba4ac00e151028195885de3[m
+Author: Gauthier Dame <gdame@a2mac1.com>
+Date:   Wed Nov 29 15:53:01 2023 +0100
+
+    test
+
+[33mcommit 7913f23a59233fda7e3c3ab310916d0fc13f56b3[m
+Merge: 86c1e94 b18c11e
+Author: ylorillec <ylorillec@a2mac1.com>
+Date:   Wed Nov 29 15:43:46 2023 +0100
+
+    Merge branch 'main' of https://github.com/agdebroise/git-training-exercise
+
+[33mcommit 86c1e94117ea07fbe142ea51a9604aaf17c4f570[m
+Merge: a5214f6 e89eab6
+Author: ylorillec <ylorillec@a2mac1.com>
+Date:   Wed Nov 29 15:41:11 2023 +0100
+
+    Merge branch 'test-branching'
+
+[33mcommit b18c11e67023e5083b849c7a6e6042b28cd5e319[m
+Merge: a5214f6 ffe915c
+Author: maite compiegne <mcompiegne@a2mac1.com>
+Date:   Wed Nov 29 15:40:37 2023 +0100
+
+    Merge branch 'mCompiegne'
+
+[33mcommit e89eab6b24c1be19f950471166c11501888feebc[m
+Author: ylorillec <ylorillec@a2mac1.com>
+Date:   Wed Nov 29 15:38:51 2023 +0100
+
+    Commit de tout
+
+[33mcommit ffe915cedc5207b2e732dd05460e56cc357281c1[m[33m ([m[1;31morigin/mCompiegne[m[33m)[m
+Author: maite compiegne <mcompiegne@a2mac1.com>
+Date:   Wed Nov 29 15:37:55 2023 +0100
+
+    rename file
+
+[33mcommit a5214f665e4773ebfce9a06c8737f3fe2dced394[m
+Merge: bc6c68a 0760b24
+Author: ysoulier <ysoulier@a2mac1.com>
+Date:   Wed Nov 29 15:37:35 2023 +0100
+
+    Merge branch 'main' into ysoulier
+
+[33mcommit 0760b243da8a2f17034e9df03bab9f57d3e7323e[m
+Merge: 746daa5 87a977a
+Author: erbox <jbauer@a2mac1.com>
+Date:   Wed Nov 29 15:35:19 2023 +0100
+
+    Merge branch 'ondeletevraimenttout'
+
+[33mcommit bc6c68abacc743ff6d70f4f81e36ea1627d5bd06[m[33m ([m[1;31morigin/ysoulier[m[33m)[m
+Author: ysoulier <ysoulier@a2mac1.com>
+Date:   Wed Nov 29 15:32:35 2023 +0100
+
+    Commit ysoulier.txt
+
+[33mcommit 87a977a959cccaaf7fab79fead0cc3d5e337d422[m[33m ([m[1;31morigin/ondeletevraimenttout[m[33m)[m
+Merge: c8d0002 77c01a1
+Author: erbox <jbauer@a2mac1.com>
+Date:   Wed Nov 29 15:31:59 2023 +0100
+
+    Merge remote-tracking branch 'origin' into ondeletevraimenttout
+
+[33mcommit c2cf54a469d8b6602157d8a8bd0de390fceaab03[m
+Author: maite compiegne <mcompiegne@a2mac1.com>
+Date:   Wed Nov 29 15:31:05 2023 +0100
+
+    modificiation fichier
+
+[33mcommit caddd85a0cb6b2ae0f2e07b969d2b19de368f52b[m
+Author: EcamaraBuz <ecamara.business@gmail.com>
+Date:   Wed Nov 29 15:29:00 2023 +0100
+
+    Hello wooooorld
+
+[33mcommit a2696c4e47e64e981a4198f635ea967c9588ddbc[m
+Merge: d48f4a6 77c01a1
+Author: ysoulier <ysoulier@a2mac1.com>
+Date:   Wed Nov 29 15:25:21 2023 +0100
+
+    Merge branch 'main' into ysoulier
+
+[33mcommit 746daa559e4eb52214255f878dc0951152100e48[m
+Merge: 12c8203 77c01a1
+Author: rtirlois <rtirlois@a2mac1.com>
+Date:   Wed Nov 29 15:25:08 2023 +0100
+
+    Merge branch 'main' into rtirlois #FirstTry
+
+[33mcommit d48f4a61a783e7ab6a8447ac518e6241ef8f8619[m
+Author: ysoulier <ysoulier@a2mac1.com>
+Date:   Wed Nov 29 15:24:01 2023 +0100
+
+    ysoulier commit
+
+[33mcommit 77c01a1641390085f8e014486d24a22c566361d4[m
+Author: agdebroise <59964684+agdebroise@users.noreply.github.com>
+Date:   Wed Nov 29 15:23:35 2023 +0100
+
+    Update whoisthebest.txt
+    
+    I am the best
+
+[33mcommit 8dfb89437405eef45952ab3d2c23c4e1d3e45bca[m
+Author: maite compiegne <mcompiegne@a2mac1.com>
+Date:   Wed Nov 29 15:23:31 2023 +0100
+
+    nouveau fichier
+
+[33mcommit 12c8203c3fb93a4ddabae50af1506fff5d3bfe4f[m
+Author: rtirlois <rtirlois@a2mac1.com>
+Date:   Wed Nov 29 15:22:58 2023 +0100
+
+    rtirlois test first file
+
+[33mcommit 4cb16fcb545219bf97c83a911752d557b7e2ada2[m
+Author: ylorillec <ylorillec@a2mac1.com>
+Date:   Wed Nov 29 15:22:25 2023 +0100
+
+    test branching
+
+[33mcommit c8d0002cbbbcbd66611e77e461de6dc0e61dad6a[m
+Author: erbox <jbauer@a2mac1.com>
+Date:   Wed Nov 29 15:20:48 2023 +0100
+
+    doh !
+
+[33mcommit 8aa3bb0e1626c53c6fde82acd4909d8e31dd0998[m
+Author: erbox <jbauer@a2mac1.com>
+Date:   Wed Nov 29 15:15:22 2023 +0100
+
+    sans tirer de branche
+
+[33mcommit 4c2ae98d2efe496b3f93c6ccf4dbc07e833ecda8[m[33m ([m[1;31morigin/branch1[m[33m)[m
+Author: agdebroise <59964684+agdebroise@users.noreply.github.com>
+Date:   Mon Nov 27 21:44:23 2023 +0100
+
+    Initial commit
